@@ -1,0 +1,8 @@
+.Image-container {
+  overflow: hidden;
+}
+
+.Image-image {
+  min-width: 100%;
+  max-width: 100%;
+}
